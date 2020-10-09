@@ -13,7 +13,7 @@
 
 👯 I’m looking to collaborate on _any Computer Vision techniques to solve real-world problems_.
 
-🤔 I’m looking for help with _Instance Segmentation especialy using Object Detection based techniques_.
+🤔 I’m looking for help with _Instance Segmentation using Object Detection based techniques_.
 
 💬 Ask me about _Artificial Inteligence, Machine Learning, Deep Learning, and Computer Vision_.
 
