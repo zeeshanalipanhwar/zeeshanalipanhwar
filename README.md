@@ -7,13 +7,13 @@
 ✨ I have good mathematical, analytical and logical problem solving skills.
 
 
-🔭 I’m currently working on _Nuclie Instance Segmentation of Histology Images as my PG thesis_.
+🔭 I’m currently working on _Nuclei Instance Segmentation of Histology Images as my PG thesis_.
 
 🌱 I’m currently learning _Object Detection based and other methods for Instance Segmentation_.
 
 👯 I’m looking to collaborate on _any Computer Vision techniques to solve real-world problems_.
 
-🤔 I’m looking for help with _Instance Seg. especialy using Object Detection based techniques_.
+🤔 I’m looking for help with _Instance Segmentation especialy using Object Detection based techniques_.
 
 💬 Ask me about _Artificial Inteligence, Machine Learning, Deep Learning, and Computer Vision_.
 
