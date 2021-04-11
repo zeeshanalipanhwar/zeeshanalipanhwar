@@ -16,4 +16,4 @@
 
 ⚡ Fun fact: Left Handed.
 
-📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/zeeshan-ali-panhwar/).
+📫 How to reach me: zapt1860@gmail.com, https://www.linkedin.com/in/zeeshan-ali-panhwar.
