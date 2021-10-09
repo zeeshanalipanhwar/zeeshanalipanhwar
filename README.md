@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm a final year postgraduate student of Computer Science, and was previously a Research Engineer.
+✨ I'm a final year postgraduate student of Computer Science, and a Machine Learning Engineer at Neurog.ai.
 
 🔭 I’m currently working on _Nuclei Instance Segmentation of Histology Images as my PG thesis_.
 
