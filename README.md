@@ -2,10 +2,6 @@
 
 ✨ I'm a final year postgraduate student of Computer Science, and a Machine Learning Engineer at Neurog.ai.
 
-🔭 I’m currently working on _Nuclei Instance Segmentation of Histology Images as my PG thesis_.
-
-🌱 I’m currently learning _Instance Segmentation_.
-
 👯 I’m looking to collaborate on _any Computer Vision techniques to solve real-world problems_.
 
 🤔 I’m looking for help with _making this world a better place_.
