@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm a final year postgraduate student of Computer Science, and a Machine Learning Engineer at Neurog.ai.
+✨ I'm a Math. & Computer Science Teacher at Sundar STEM School.
 
 👯 I’m looking to collaborate on _any Computer Vision techniques to solve real-world problems_.
 
