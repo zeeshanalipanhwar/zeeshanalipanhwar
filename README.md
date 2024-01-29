@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-✨ I'm a Math. & Computer Science Teacher at Sundar STEM School.
+✨ I'm a Math & Computer Science Teacher at Sundar STEM School.
 
-👯 I’m looking to collaborate on _any Computer Vision techniques to solve real-world problems_.
+👯 I’m looking to collaborate on _any Computer Vision projects to solve real-world problems_.
 
 🤔 I’m looking for help with _making this world a better place_.
 
