@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-✨ I'm a PhD student.
+✨ I'm postgraduate in Compter Science, currently working as Mathematics Teacher at Pakistan STEM School.
 
-👯 I’m looking to collaborate on _any Computer Vision projects to solve real-world problems_.
+👯 I’m looking to collaborate on _any Computer Science projects to solve real-world problems_.
 
 🤔 I’m looking for help with _making this world a better place_.
 
