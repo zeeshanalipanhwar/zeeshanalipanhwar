@@ -10,7 +10,7 @@ I'm passionate about the intersection of mathematics and computer science, and I
 
 * 🔭 **Currently working as:** A Mathematics Teacher at Pakistan STEM School.
 * 🎓 **My background:** Postgraduate degree in Computer Science.
-* 👯 **Looking to collaborate on:** Projects that solve real-world problems—especially those involving algorithms, data, or EdTech.
+* 👯 **Looking to collaborate on:** Projects that solve real-world problems.
 * 🤔 **Looking for help with:** Leveraging technology to make a positive social impact.
 * 💬 **Ask me about:** Programming, Mathematics, and how the two connect!
 * ⚡ **Fun fact:** I'm left-handed! ✍️
