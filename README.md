@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm passionate about the intersection of mathematics and computer science, and I love applying logic to solve complex problems. 
+I'm passionate about the intersection of mathematics and computer science, and I love solving problems. 
 
 ### 🚀 About Me
 
