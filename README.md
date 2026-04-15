@@ -1,13 +1,19 @@
-### Hi there 👋
+## Hi there! I'm Zeeshan Ali Panhwar 👋
 
-✨ I'm postgraduate in Compter Science, currently working as Mathematics Teacher at Pakistan STEM School.
+**Postgraduate in Computer Science | Mathematics Teacher @ Pakistan STEM School**
 
-👯 I’m looking to collaborate on _any Computer Science projects to solve real-world problems_.
+Welcome to my GitHub! I'm passionate about the intersection of mathematics and computer science, and I love applying logic to solve complex problems. 
 
-🤔 I’m looking for help with _making this world a better place_.
+### 🚀 About Me
 
-💬 Ask me about _Artificial Inteligence, and Computer Vision_.
+* 🔭 **Currently working as:** A Mathematics Teacher at Pakistan STEM School.
+* 🎓 **My background:** Postgraduate degree in Computer Science.
+* 👯 **Looking to collaborate on:** Projects that solve real-world problems—especially those involving algorithms, data, or EdTech.
+* 🤔 **Looking for help with:** Leveraging technology to make a positive social impact.
+* 💬 **Ask me about:** Programming, Mathematics, and how the two connect!
+* ⚡ **Fun fact:** I'm left-handed! ✍️
 
-⚡ Fun fact: Left Handed.
+### 📫 Let's Connect!
 
-📫 How to reach me: zapt1860@gmail.com, https://www.linkedin.com/in/zeeshan-ali-panhwar.
+* 📧 **Email:** [zapt1860@gmail.com](mailto:zapt1860@gmail.com)
+* 💼 **LinkedIn:** [Zeeshan Ali Panhwar](https://www.linkedin.com/in/zeeshan-ali-panhwar)
